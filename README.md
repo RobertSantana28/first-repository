@@ -1,2 +1,3 @@
 # first-repository
- primeiro repositório versionado
+ primeiro repositório versionado, ao vivo com o Guanabara
+ 
